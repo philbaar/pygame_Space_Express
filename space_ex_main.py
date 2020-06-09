@@ -29,7 +29,7 @@ gameDisplay = pygame.display.set_mode((display_width,display_height))
 pygame.display.set_caption('The Space Express')
 clock = pygame.time.Clock()
  
-shipImg = pygame.image.load('c:/Users/Philipp Baar/Desktop/coding/spaceship_red.png').convert()
+shipImg = pygame.image.load('spaceship_red.png').convert()
 #gameIcon = pygame.image.load('carIcon.png')
 
 #pygame.display.set_icon(gameIcon)
